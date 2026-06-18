@@ -478,6 +478,5 @@ Suggested options:
 
 ## Author
 
-Developed as an experimental NinjaTrader 8 institutional order-flow research suite.
-
+https://www.linkedin.com/in/elod/
 ```
