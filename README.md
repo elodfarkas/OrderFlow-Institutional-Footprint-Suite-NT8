@@ -4,6 +4,10 @@
 An advanced experimental **NinjaTrader 8 order-flow and footprint analytics suite** designed for institutional-style market microstructure analysis.
 
 The project includes a custom BarsType, normalized footprint data models, order-flow metrics, OBMM-inspired micro-trend detection, pin-bar wick-volume analysis, and a SharpDX-based visualizer for high-performance chart rendering.
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_ialv7oialv7oialv" src="https://github.com/user-attachments/assets/1e5cd535-7eee-42fb-a41c-7e401aa88de6" />
+
+
 Short youtube video:
 [![OrderFlow Institutional Footprint Suite](https://img.youtube.com/vi/QQdtT8qe_So/hqdefault.jpg)](https://www.youtube.com/watch?v=QQdtT8qe_So)>
 
