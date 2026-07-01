@@ -35,6 +35,11 @@ Key features:
 - Session-aware state reset
 - Compatibility-oriented V8-style data model
 
+<img width="1707" height="982" alt="3" src="https://github.com/user-attachments/assets/4e894f4a-4b1f-40e2-9efd-47c621f0cf74" />
+<img width="1120" height="701" alt="2" src="https://github.com/user-attachments/assets/86182fea-220e-4292-b30e-63e6da96b38f" />
+<img width="1112" height="676" alt="1" src="https://github.com/user-attachments/assets/e7b42818-80ab-4cd7-9e2c-61df45e90191" />
+
+
 ---
 
 ### Footprint Data Model
